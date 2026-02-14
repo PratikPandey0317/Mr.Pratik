@@ -1,4 +1,4 @@
 # Mr.Pratik
-this is my first git repository
+Hey Everyone
 <br>
 Author- pratik
