@@ -8,8 +8,8 @@
 
 🛠️ Tech Stack
   💻 Languages :- Python ,JavaScrit , HTML ,CSS
-  ⚙️ Frameworks & Libraries :- Django , Numpy 
-  🧰 Tools & Platforms :- Git , GitHub, VS Code
+  ⚙️ Frameworks & Libraries :- Django , Numpy,Pandas,sklearn,matplotlib,seaborn
+  🧰 Tools & Platforms :- Git , GitHub, VS Code , Jupyter Notebook, LeetCode
 
 📈 Currently Working On 
   🚀 Django-Based Web Development
